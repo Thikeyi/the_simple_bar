@@ -1,0 +1,9 @@
+NUMBER:
+  path: /
+  
+   controller: App\Controller\DefaultController::number
+
+number:
+  path: /dynamic
+  controller: App\Controller\DefaultController::dynamic
+
